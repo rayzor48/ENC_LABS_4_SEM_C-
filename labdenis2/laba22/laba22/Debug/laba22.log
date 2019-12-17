@@ -1,0 +1,4 @@
+﻿  laba22.cpp
+C:\Users\Mi\Desktop\learn\labdenis2\laba22\laba22\laba22.cpp(35,14): warning C4244: =: преобразование "double" в "long", возможна потеря данных
+C:\Users\Mi\Desktop\learn\labdenis2\laba22\laba22\laba22.cpp(73,8): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  laba22.vcxproj -> C:\Users\Mi\Desktop\learn\labdenis2\laba22\Debug\laba22.exe

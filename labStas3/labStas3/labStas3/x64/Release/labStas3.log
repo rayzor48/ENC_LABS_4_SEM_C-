@@ -1,0 +1,15 @@
+﻿  labStas3.cpp
+c:\users\rayzo\source\repos\labstas3\labstas3\bigint.hpp(965): warning C4267: инициализация: преобразование из "size_t" в "long"; возможна потеря данных
+c:\users\rayzo\source\repos\labstas3\labstas3\bigint.hpp(1024): warning C4267: =: преобразование из "size_t" в "long"; возможна потеря данных
+c:\users\rayzo\source\repos\labstas3\labstas3\labstas3.cpp(259): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\rayzo\source\repos\labstas3\labstas3\labstas3.cpp(298): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\rayzo\source\repos\labstas3\labstas3\labstas3.cpp(302): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\rayzo\source\repos\labstas3\labstas3\labstas3.cpp(375): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\rayzo\source\repos\labstas3\labstas3\labstas3.cpp(380): warning C4244: аргумент: преобразование "double" в "const __int64", возможна потеря данных
+c:\users\rayzo\source\repos\labstas3\labstas3\labstas3.cpp(424): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода
+  2 of 520 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    41 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  labStas3.vcxproj -> C:\Users\rayzo\source\repos\labStas3\x64\Release\labStas3.exe

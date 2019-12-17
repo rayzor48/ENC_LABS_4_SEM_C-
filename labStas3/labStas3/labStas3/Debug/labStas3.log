@@ -1,0 +1,5 @@
+﻿  labStas3.cpp
+c:\users\rayzo\source\repos\labstas3\labstas3\labstas3.cpp(27): warning C4838: преобразование из "int" в "char" требует сужающего преобразования
+c:\users\rayzo\source\repos\labstas3\labstas3\labstas3.cpp(27): warning C4309: инициализация: усечение константного значения
+c:\users\rayzo\source\repos\labstas3\labstas3\labstas3.cpp(40): warning C4018: <: несоответствие типов со знаком и без знака
+  labStas3.vcxproj -> C:\Users\rayzo\source\repos\labStas3\Debug\labStas3.exe
